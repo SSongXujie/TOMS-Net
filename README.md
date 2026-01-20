@@ -52,6 +52,6 @@ For the IXI dataset:
 bash script/test/test_IXI.sh
 ```
 # Visualization result
-![Schematic diagram](diagram/visual.png)
+![Schematic diagram](diagram/overview1.png)
 <p align="center"><em>Figure 2. Visual examples of comparison results for the missing MR sequence on BraTS-2018.
 The first column represents the input MR sequences: FLAIR, T1ce, T2, and T1 are located from the top-left in a clockwise direction. The target MR sequence is highlighted by a red border. The missing MR sequence is a gray mask image. The PSNR value is colored in purple. </em></p>
