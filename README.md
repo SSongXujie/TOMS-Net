@@ -4,7 +4,7 @@ MRI Modalities
 <!-- We propose a unified synthesis framework, TC-MSNet, which combines multiple target-conditioned single-modal encoders to extract relevant features and a multi-modal encoder to capture structural information, ensuring robustness across modality combinations. Additionally, a multi-dimensional fusion network is introduced to refine the target modality features through three key components: target feature enhancement, target-driven cross-modal fusion, and a spatially-aware module.  -->
 We propose a unified synthesis framework, TOMS-Net(**T**arget-**O**riented **M**odal **S**ynthesis **N**etwork), which employs a target-oriented modal encoding approach to obtain target-specific modal features and cross-modal complementary information, handling diverse modal inputs and enhancing the robustness of target feature extraction. Additionally, a target-driven cross-modal fusion module refines both the texture and structural details of the target modality.
 # Overview
-![Schematic diagram](diagram/Illustration.png)
+![Schematic diagram](diagram/overview1.png)
 <p align="center"><em>Figure 1. Overview of TOMS-Net</em></p>
 
 # How to run:
