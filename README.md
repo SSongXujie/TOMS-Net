@@ -10,7 +10,7 @@ We propose a unified synthesis framework, TOMS-Net(**T**arget-**O**riented **M**
 # How to run:
 ```bash
 ### Clone the repository
-$ git clone https://github.com/SSongXujie/TOMS-Net.git
+$ git clone XXX
 $ cd TOMS-Net
 ### Install & activate environment
 $ conda env create -f environment.yml
