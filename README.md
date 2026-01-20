@@ -19,7 +19,7 @@ $ accelerate config
 ```
 We suggest the following folder structure for training:
 ```
-data/
+dataset/
 --- BraTS/
 ------ train/
 ------ valid/
